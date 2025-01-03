@@ -16,9 +16,9 @@ body, html {
 }
 
 .logo {
-    width: 500px;
-    height: 500px;
-    animation: bounce 2s infinite;
+    width: 380px;
+    height: 380px;
+    /* animation: bounce 2s infinite; */
 }
 
 @keyframes bounce {
